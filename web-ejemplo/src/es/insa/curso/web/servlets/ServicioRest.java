@@ -10,6 +10,7 @@ import javax.ws.rs.QueryParam;
 // PERO JAX-RS DE POR SÍ ES SÓLO UNA INTERFAZ
 // JERSEY ES UNA VERSIÓN DE JAX-RS
 // PERO   SE CONFIGURA CON ANOTACIONES.
+// cambiado
 @Path("/")
 public class ServicioRest {
 
